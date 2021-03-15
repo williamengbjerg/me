@@ -21,7 +21,7 @@ I'm a strong believer in side projects. It shows you are really passionate about
 Side-project I maintain:
 - [Hundeskoven.dk](https://hundeskoven.dk) 
 - [Efterlyshund.dk](https://efterlyshund.dk) 
-- [Profesionalmente.com.gt](www.profesionalmente.com.gt)
+- [Profesionalmente.com.gt](https://profesionalmente.com.gt)
 
 All my side-project are done through my company, [Websnack](https://github.com/websnack-dk). (Mainly focused on my own projects).
 
