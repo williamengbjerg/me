@@ -23,11 +23,15 @@ Side-project I maintain:
 - [Efterlyshund.dk](https://efterlyshund.dk) 
 - [Profesionalmente.com.gt](www.profesionalmente.com.gt)
 
+All my side-project are done through my company, [Websnack](https://github.com/websnack-dk). (Mainly focused on my own projects).
+
+
+
 ## About
 
 In my spare time, I like to walk with my dog and expand my programming skills. 🐶 💻
 
-Want more? Visit my blog at [Engbjerg.dk](https://engbjerg.dk)
+Want more? Visit my blog at [Engbjerg.dk](https://engbjerg.dk) or Company website [Websnack.dk](https://websnack.dk)
 
 ## Social
 - Twitter: [@williamengbjerg](https://twitter.com/williamengbjerg)
