@@ -4,6 +4,7 @@ My name is William, and I've been a web developer for more than 15 years. I love
 
 
 ## Main Tech Stacks: 
+- [Laravel Framework](https://github.com/laravel)
 - [Docker](https://github.com/docker)
 - [DDEV](https://www.ddev.com/)
 - [PHP](https://github.com/topics/php)
