@@ -32,7 +32,7 @@ All my side-project are done through my Company, [Websnack](https://github.com/w
 
 In my spare time, I like to walk with my dog and expand my programming skills. 🐶 💻
 
-Want know more? Visit my blog at [Engbjerg.dk](https://engbjerg.dk) or Company website [Websnack.dk](https://websnack.dk)
+Want to know more? Visit my blog at [Engbjerg.dk](https://engbjerg.dk) or Company website [Websnack.dk](https://websnack.dk)
 
 
 ## 🍺 Social
