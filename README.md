@@ -10,7 +10,7 @@ My name is William, and I've been a web developer for more than 15 years. I love
 ❤️ [DDEV](https://www.ddev.com/) <br>
 ✅ [PHP](https://github.com/topics/php) <br>
 ✅ [Vuejs](https://github.com/vuejs) <br>
-✅ [TailwindCSS](https://github.com/tailwindcss) <br>
+✅ [TailwindCSS](https://github.com/tailwindlabs) <br>
 ✅ [MariaDB](https://github.com/mariadb) <br>
 
 and a bunch of other amazing tech stacks
