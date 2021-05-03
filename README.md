@@ -1,6 +1,6 @@
 # Hi you 👋🏼
 
-My name is William, and I've been a web developer for more than 15 years. I love creating websites! Especially with [Laravel](https://github.com/laravel). I'm also working full-time as a [Magento front-developer](https://github.com/magento), [Kommerce.dk](http://kommerce.dk/)
+My name is William, and I've been a web developer for more than 15 years. I love creating websites! Especially with [Laravel](https://github.com/laravel). I'm also a full-time [Magento frontend-developer](https://github.com/magento).
 
 
 ![](https://github-readme-stats.vercel.app/api?username=williamengbjerg&show_icons=true&count_private=true)
