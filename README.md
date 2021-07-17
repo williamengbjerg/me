@@ -9,7 +9,6 @@ My name is William, and I've been a web developer for more than 15 years. I love
 ## What I like to do: 
 
 😍 [Laravel Framework](https://github.com/laravel) <br>
-🐳 [Docker](https://github.com/docker) <br>
 ❤️ [DDEV](https://www.ddev.com/) <br>
 ✅ [PHP](https://github.com/topics/php) <br>
 ✅ [Tailwind](https://github.com/tailwindlabs) <br>
@@ -21,6 +20,7 @@ My name is William, and I've been a web developer for more than 15 years. I love
 I'm a strong believer in side projects, and have always liked to do my own projects in my sparetime. I think it's a great way for learning new technologies, and expand your skills.
 
 **Side-project I maintain:**
+- [MagentoTool.com](https://magentotool.com)
 - [Profesionalmente.com.gt](https://profesionalmente.com.gt)
 - [Hundeskoven.dk](https://hundeskoven.dk) 
 - [Efterlyshund.dk](https://efterlyshund.dk) 
