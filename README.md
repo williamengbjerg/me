@@ -9,8 +9,8 @@ My name is William, and I've been a web developer for more than 15 years. I love
 ## What I like to do: 
 
 😍 [Laravel Framework](https://github.com/laravel) <br>
+🚀 [Laravel Livewire](https://laravel-livewire.com/) <br>
 ❤️ [DDEV](https://www.ddev.com/) <br>
-✅ [PHP](https://github.com/topics/php) <br>
 ✅ [Tailwind](https://github.com/tailwindlabs) <br>
 ✅ Bash Scripting 
 
