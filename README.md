@@ -24,14 +24,14 @@ I'm a strong believer in side projects, and have always liked to do my own proje
 - [Profesionalmente.com.gt](https://profesionalmente.com.gt)
 - [Efterlyshund.dk](https://efterlyshund.dk) 
 
-All my side-project are done through my Company, [Websnack](https://github.com/websnack-dk). (Mainly focused on my own side-projects).
+All my side-projects are done through my freelance company, [Websnack](https://github.com/websnack-dk).
 
 
 ## 🥷 About
 
 In my spare time, I like to walk with my dog and expand my programming skills. 🐶 💻
 
-Want to know more? Visit my company [Websnack.dk](https://websnack.dk)
+Want to know more? Visit my freelance company [Websnack.dk](https://websnack.dk)
 
 
 ## 🍺 Social
