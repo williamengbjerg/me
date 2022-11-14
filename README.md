@@ -1,6 +1,6 @@
 # Hi you 👋🏼
 
-My name is William, and I've been a web developer for more than 15 years. I love creating websites! Especially with [Laravel](https://github.com/laravel).
+My name is William, and I'm a fulltime Laravel freelance developer. I love creating websites with [Laravel](https://github.com/laravel).
 
 
 ![](https://github-readme-stats.vercel.app/api?username=williamengbjerg&theme=dark&show_icons=true&count_private=true)
@@ -12,10 +12,10 @@ My name is William, and I've been a web developer for more than 15 years. I love
 🚀 [Laravel Livewire](https://laravel-livewire.com/) <br>
 ❤️ [DDEV](https://www.ddev.com/) <br>
 ✅ [Tailwind](https://github.com/tailwindlabs) <br>
-✅ Bash Scripting 
+✅ [Laravel Nova](https://nova.laravel.com) <br>
 
 
-## 🤓 Projects 
+## 🤓 Sideprojects 
 
 I'm a strong believer in side projects, and have always liked to do my own projects in my sparetime. I think it's a great way for learning new technologies, and expand your skills.
 
@@ -24,14 +24,14 @@ I'm a strong believer in side projects, and have always liked to do my own proje
 - [Profesionalmente.com.gt](https://profesionalmente.com.gt)
 - [Efterlyshund.dk](https://efterlyshund.dk) 
 
-All my side-projects are done through my freelance company, [Websnack](https://github.com/websnack-dk).
+My company, [Websnack](https://github.com/websnack-dk).
 
 
 ## 🥷 About
 
 In my spare time, I like to walk with my dog and expand my programming skills. 🐶 💻
 
-Want to know more? Visit my freelance company [Websnack.dk](https://websnack.dk)
+Want to know more? Visit my company [Websnack.dk](https://websnack.dk)
 
 
 ## 🍺 Social
