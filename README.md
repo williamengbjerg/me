@@ -20,6 +20,7 @@ My name is William, and I'm a fulltime Laravel freelance developer. I love creat
 I'm a strong believer in side projects, and have always liked to do my own projects in my sparetime. I think it's a great way for learning new technologies, and expand your skills.
 
 **Side-project I maintain:**
+- [Observe.domains](https://observe.domains)
 - [Hundeskoven.dk](https://hundeskoven.dk) 
 - [Profesionalmente.com.gt](https://profesionalmente.com.gt)
 - [Efterlyshund.dk](https://efterlyshund.dk) 
