@@ -19,20 +19,19 @@ My name is William, and I'm a fulltime Laravel freelance developer. I love creat
 
 I'm a strong believer in side projects, and have always liked to do my own projects in my sparetime. I think it's a great way for learning new technologies, and expand your skills.
 
-**Side-project I maintain:**
-- [Observe.domains](https://observe.domains)
-- [Hundeskoven.dk](https://hundeskoven.dk) 
-- [Profesionalmente.com.gt](https://profesionalmente.com.gt)
-- [Efterlyshund.dk](https://efterlyshund.dk) 
 
-My company, [Websnack](https://github.com/websnack-dk).
+[🤖 Hyperlinks.tools - AI Tools](https://yperlinks.tools)  <br>
+[👀 Observe.domains](https://observe.domains) <br>
+[🌳 Hundeskoven.dk](https://hundeskoven.dk) <br>
+[🧠 Profesionalmente.com.gt](https://profesionalmente.com.gt) <br>
+[🆘 Efterlyshund.dk](https://efterlyshund.dk) <br>
 
 
 ## 🥷 About
 
 In my spare time, I like to walk with my dog and expand my programming skills. 🐶 💻
 
-Want to know more? Visit my company [Websnack.dk](https://websnack.dk)
+Want to know more? Visit my company [Websnack.dk 🚀](https://websnack.dk)
 
 
 ## 🍺 Social
