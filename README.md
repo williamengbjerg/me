@@ -13,6 +13,8 @@ My name is William, and I'm a fulltime Laravel freelance developer. I love creat
 ❤️ [DDEV](https://www.ddev.com/) <br>
 ✅ [Tailwind](https://github.com/tailwindlabs) <br>
 ✅ [Laravel Nova](https://nova.laravel.com) <br>
+✅ [Filamentphp](https://filamentphp.com) <br>
+
 
 
 ## 🤓 Sideprojects 
@@ -20,7 +22,7 @@ My name is William, and I'm a fulltime Laravel freelance developer. I love creat
 I'm a strong believer in side projects, and have always liked to do my own projects in my sparetime. I think it's a great way for learning new technologies, and expand your skills.
 
 [🐾 Efterlystedyr.dk](https://efterlystedyr.dk) <br>
-[🤖 Hyperlinks.tools - AI Tools](https://hyperlinks.tools)  <br>
+[🤖 Hyperlinks.tools](https://hyperlinks.tools)  <br>
 [👀 Observe.domains](https://observe.domains) <br>
 [🌳 Hundeskoven.dk](https://hundeskoven.dk) <br>
 [🧠 Profesionalmente.com.gt](https://profesionalmente.com.gt) <br>
