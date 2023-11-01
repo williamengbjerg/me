@@ -9,10 +9,9 @@ My name is William, and I'm a fulltime Laravel freelance developer. I love creat
 ## What I like to do: 
 
 😍 [Laravel Framework](https://github.com/laravel) <br>
-🚀 [Laravel Livewire](https://laravel-livewire.com/) <br>
 ❤️ [DDEV](https://www.ddev.com/) <br>
 ✅ [Tailwind](https://github.com/tailwindlabs) <br>
-✅ [Laravel Nova](https://nova.laravel.com) <br>
+✅ [TALL-Stack](https://tallstack.dev) <br>
 ✅ [Filamentphp](https://filamentphp.com) <br>
 
 
@@ -21,20 +20,19 @@ My name is William, and I'm a fulltime Laravel freelance developer. I love creat
 
 I'm a strong believer in side projects, and have always liked to do my own projects in my sparetime. I think it's a great way for learning new technologies, and expand your skills.
 
+[🎅🏻 Digitaljul.dk](https://digitaljul.dk) <br>
 [🐶 Sofahund.dk](https://sofahund.dk) <br>
-[🐾 Efterlystedyr.dk](https://efterlystedyr.dk) <br>
-[🤖 Hyperlinks.tools](https://hyperlinks.tools)  <br>
-[👀 Observe.domains](https://observe.domains) <br>
+[🚨 Efterlystedyr.dk](https://efterlystedyr.dk) <br>
 [🌳 Hundeskoven.dk](https://hundeskoven.dk) <br>
 [🧠 Profesionalmente.com.gt](https://profesionalmente.com.gt) <br>
-[🆘 Efterlyshund.dk](https://efterlyshund.dk) <br>
+
 
 
 ## 🥷 About
 
-In my spare time, I like to walk with my dog and expand my programming skills. 🐶 💻
+In my spare time, I like to walk with my dog and expand my dev skills. 🐶 💻
 
-Want to know more? Visit my company [Websnack.dk 🚀](https://websnack.dk)
+Want to know more? Visit my company [Websnack.dk 🚀](https://websnack.dk) or checkout my latest portfolio as an indie maker crafting products in public at [william.software 🧑🏻‍💻](https://william.software) 
 
 
 ## 🍺 Social
