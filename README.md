@@ -32,7 +32,7 @@ I'm a strong believer in side projects, and have always liked to do my own proje
 
 In my spare time, I like to walk with my dog and expand my dev skills. 🐶 💻
 
-Want to know more? Visit my company [Websnack.dk 🚀](https://websnack.dk) or checkout my latest portfolio as an indie maker crafting products in public at [william.software 🧑🏻‍💻](https://william.software) 
+Want to know more? Visit my company [Websnack.dk 🚀](https://websnack.dk) or checkout what I craft as an indie maker on [AutoPilot.software 🧑🏻‍💻](https://autopilot.software) 
 
 
 ## 🍺 Social
