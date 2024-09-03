@@ -23,7 +23,7 @@ I'm a strong believer in side projects, and have always liked to do my own proje
 
 [🟩 XSync.ing](https://xsync.ing/) <br>
 [🚀 Autopilot.software](https://autopilot.software) <br>
-[🎅🏻 Digitaljul.dk](https://digitaljul.dk)
+[🎅🏻 Digitaljul.dk](https://digitaljul.dk)  <br>
 [🐶 Sofahund.dk](https://sofahund.dk) / [Adopterhund.dk](https://adopterhund.dk) <br>
 [🚨 Efterlystedyr.dk](https://efterlystedyr.dk) <br>
 [🌳 Hundeskoven.dk](https://hundeskoven.dk) <br>
