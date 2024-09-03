@@ -21,13 +21,14 @@ My name is William, I love creating websites with [Laravel](https://github.com/l
 I'm a strong believer in side projects, and have always liked to do my own projects in my sparetime. I think it's a great way for learning new technologies, and expand your skills.
 
 
-[🛒 My products](https://webmodk.gumroad.com/) <br>
+[🟩 XSync.ing](https://xsync.ing/) <br>
 [🚀 Autopilot.software](https://autopilot.software) <br>
-[🎅🏻 Digitaljul.dk](https://digitaljul.dk) / [Advent.Christmas](https://advent.christmas) <br>
-[🐶 Sofahund.dk](https://sofahund.dk) <br>
+[🎅🏻 Digitaljul.dk](https://digitaljul.dk)
+[🐶 Sofahund.dk](https://sofahund.dk) / [Adopterhund.dk](https://adopterhund.dk) <br>
 [🚨 Efterlystedyr.dk](https://efterlystedyr.dk) <br>
 [🌳 Hundeskoven.dk](https://hundeskoven.dk) <br>
 [🧠 Profesionalmente.com.gt](https://profesionalmente.com.gt) <br>
+[🛒 My products](https://webmodk.gumroad.com/) <br>
 
 
 
