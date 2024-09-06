@@ -28,7 +28,7 @@ I'm a strong believer in side projects, and have always liked to do my own proje
 [🚨 Efterlystedyr.dk](https://efterlystedyr.dk) <br>
 [🌳 Hundeskoven.dk](https://hundeskoven.dk) <br>
 [🧠 Profesionalmente.com.gt](https://profesionalmente.com.gt) <br>
-[🛒 My products](https://webmodk.gumroad.com/) <br>
+[🛒 My products](https://productshake.gumroad.com/l/affiliate-store-platform) <br>
 
 
 
