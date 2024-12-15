@@ -2,8 +2,6 @@
 
 My name is William, I love creating websites with [Laravel](https://github.com/laravel).
 
-![](https://github-readme-stats.vercel.app/api?username=williamengbjerg&theme=dark&show_icons=true&count_private=true)
-
 
 ## What I like to do: 
 
